@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "inquirer": "^9.0.0"
+  },
+  "name": "readme-machine",
+  "description": "[How to create a Professional README](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KevniKica/README-MACHINE.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KevniKica/README-MACHINE/issues"
+  },
+  "homepage": "https://github.com/KevniKica/README-MACHINE#readme"
+}
